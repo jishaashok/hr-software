@@ -1,3 +1,8 @@
+{
+	"Language":"js",
+	"Plugins":[
+		"html-report"
+		]
 fbsjhdfjd
 gdfgfd
 g
